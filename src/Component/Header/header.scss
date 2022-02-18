@@ -1,0 +1,14 @@
+header {
+    background-color: #212529;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-family: "Arial", sans-serif;
+    #company-name {
+      font-weight: 700;
+      font-size: 1.2em;
+      padding: 0 20px;
+      color: #007bff;
+      text-transform: uppercase;
+    }
+  }
